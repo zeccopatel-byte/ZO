@@ -1186,6 +1186,11 @@ export default function App() {
             </motion.p>
           </div>
           
+          <motion.div variants={fadeInUp} className="flex items-center gap-8 mt-12 opacity-60 mix-blend-multiply filter grayscale hover:grayscale-0 transition-all duration-300">
+            <img src="/stripe-3.svg" alt="Stripe" className="h-8 object-contain" />
+            <img src="/substack_wordmark.png" alt="Substack" className="h-6 object-contain" />
+          </motion.div>
+          
               </div>
       </motion.div>
       </section>
