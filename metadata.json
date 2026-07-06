@@ -1,0 +1,6 @@
+{
+  "name": "Zo",
+  "description": "Build something seriously powerful. Run your business and life on Zo with a cloud computer that works 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
